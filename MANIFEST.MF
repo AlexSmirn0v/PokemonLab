@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Alex Smirnov
+Main-Class: Game
+Class-Path: ./lib/Pokemon.jar
